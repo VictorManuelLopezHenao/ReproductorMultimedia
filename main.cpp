@@ -1,5 +1,10 @@
 #include "mainwindow.h"
 
+//GATTT
+
+
+
+
 #include <QApplication>
 
 int main(int argc, char *argv[])
