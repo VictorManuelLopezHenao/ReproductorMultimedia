@@ -60,3 +60,15 @@ void MainWindow::on_horizontalSlider_Volume_Control_valueChanged(int value)
     audioOutput->setVolume(vol);  // Ajustar el volumen de la salida de audio
 }
 
+
+void MainWindow::on_Stop_clicked()
+{
+
+}
+
+
+void MainWindow::on_Mute_clicked()
+{
+
+}
+
